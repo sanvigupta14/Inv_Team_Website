@@ -1,0 +1,10 @@
+   {
+     "description": "Investment Team Website, IIT Bombay: a student-led team across equity research, venture capital and quant.",
+     "robots": {
+       "index": true
+     },
+     "accessibility": {
+       "addBypassLinks": false,
+       "ignoreReducedMotion": false
+     }
+   }
